@@ -3,7 +3,7 @@
   
 As a SW-developer and especially as a full-stack developer, one major professionality is the ability to debug the state of your application. In this article, I will try to touch not only the "30-40 degrees" program of redux dev tools, but also the other functions including the "100 degree-cotton". The adds-on of 'redux dev tools' is a great tool for interpreting and debugging the application state. I will explain about the chrome extension, but it is also available on Firefox and electron, and can be used as a remote for other browsers and non-browser environments. The review of adds-on features will be top to bottom.  
 
-After installing redux dev tools and configuring it on the store, the adds-on will be available as an extra tab on the inspect mode of the browser.  Redux dev tools adds-on has its' own global states, which are shown as 2 @ before each state, for example: @@init / @@pause.   
+After installing redux dev tools and configuring it on the store, the adds-on will be available as an extra tab on the inspect mode of the browser.  Redux dev tools adds-on has its own global states, which are shown as 2 @ before each state, for example: @@init / @@pause.   
 
 
 ## Upper dropdowns 
