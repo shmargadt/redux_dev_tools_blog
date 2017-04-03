@@ -1,5 +1,5 @@
 # **It's time to discover Redux Dev Tools**  
-"The washing machine" is a familiar syndrome. This syndrome is about peoples' preferences while choosing the functionality of the program in their washing machine. Most people choose the same program they are used to, and it is usually the standard program. This syndrome happens in many subjects, one of them in my opinion is redux dev tools.
+"The washing machine" is a familiar syndrome. This syndrome is about the preferences of people while choosing the functionality of the program in their washing machine. Most people choose the same program they are used to, and it is usually the standard program. This syndrome happens in many subjects, one of them in my opinion is redux dev tools.
   
 As a SW-developer and especially as a full-stack developer, one major professionality is the ability to debug the state of your application. In this article, I will try to touch not only the "30-40 degrees" program of redux dev tools, but also the other functions including the "100 degree-cotton". The adds-on of 'redux dev tools' is a great tool for interpreting and debugging the application state. I will explain about the chrome extension, but it is also available on Firefox and electron, and can be used as a remote for other browsers and non-browser environments. The review of adds-on features will be top to bottom.  
 
